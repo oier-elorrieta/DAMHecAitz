@@ -20,7 +20,7 @@ public class Pelikula {
 		this.mezua = mezua;
 	}
 	
-	djhjd
+	
 	
 
 }
